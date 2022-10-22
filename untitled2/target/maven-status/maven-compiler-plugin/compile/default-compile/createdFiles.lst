@@ -1,0 +1,5 @@
+com\test\Brick.class
+com\test\BrickFactory.class
+com\test\NotEnoughResourcesException.class
+com\test\WorkerTiredException.class
+com\test\Worker.class
